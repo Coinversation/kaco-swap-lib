@@ -1,7 +1,8 @@
-# Pancake Swap Lib
+# Kaco Swap Lib
 
+This repo is based on Pancake Swap Lib
 
-Solidity libraries that are shared across Uniswap contracts. These libraries are focused on safety and gas efficiency.
+Solidity libraries that are shared across contracts. These libraries are focused on safety and gas efficiency.
 
 ## Install
 
